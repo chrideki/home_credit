@@ -1,4 +1,4 @@
-###HOME CREDIT DEFALT RISK 
+HOME CREDIT DEFALT RISK 
 
 Data analysis by Christian Goldoni
 
